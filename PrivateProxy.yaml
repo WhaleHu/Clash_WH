@@ -1,2 +1,6 @@
 payload:
   - '+.thingiverse.com'
+  - '+.sendgrid.com'
+  - '+.hsreplay.net'
+  - '+.cloudflare.com'
+  - '+.oraclecloud.com'
