@@ -1,9 +1,9 @@
 payload:
-  - '+.thingiverse.com'
-  - '+.sendgrid.com'
-  - '+.hsreplay.net'
-  - '+.cloudflare.com'
-  - '+.oraclecloud.com'
-  - '+.911997.xyz'
-  - '+.unraid.net'
-
+  - +.911997.xyz
+  - +.a.whalehu.com
+  - +.cloudflare.com
+  - +.hsreplay.net
+  - +.oraclecloud.com
+  - +.sendgrid.com
+  - +.thingiverse.com
+  - +.unraid.net
