@@ -1,7 +1,20 @@
 payload:
   - +.911997.xyz
+  - +.adobe.com
+  - +.adobe.io
+  - +.adobeaemcloud.com
+  - +.adobecc.com
+  - +.adobecces.com
+  - +.adobeccstatic.com
+  - +.adobedtm.com
+  - +.adobelogin.com
+  - +.adobesc.com
+  - +.adobess.com
+  - +.behance.net
   - +.cloudflare.com
+  - +.creativecloud.com
   - +.falixsrv.me
+  - +.ftcdn.net
   - +.hsreplay.net
   - +.linux.do
   - +.lowendtalk.com
@@ -9,5 +22,7 @@ payload:
   - +.sendgrid.com
   - +.silencedom.com
   - +.thingiverse.com
+  - +.typekit.com
+  - +.typekit.net
   - +.unraid.net
   - +.z-library.sk
